@@ -1,5 +1,4 @@
 
-# DevOps Shack User Management App
 
 This is a full-stack application for managing users with a front-end built using HTML, CSS, and JavaScript, and a back-end powered by Node.js, Express, and MySQL.
 
@@ -161,9 +160,7 @@ After following the setup instructions, you can access the application by naviga
 - **Edit User:** Click the "Edit" button next to a user entry to update their details.
 - **Delete User:** Click the "Delete" button next to a user entry to remove them from the list.
 
-## License
+s.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### NOTE: This Application Should not be used for commercial purpose by anyone else other than DevOps Shack
 
